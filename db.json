@@ -1,0 +1,48 @@
+{
+  "quiz_questions": {
+    "java": [
+      {
+        "question": "Which keyword is used to define a class in Java?",
+        "html": "<button class='btn btn-outline-primary m-1 answer-btn'>function</button><button class='btn btn-outline-primary m-1 answer-btn'>define</button><button class='btn btn-outline-primary m-1 answer-btn' data-correct='true'>class</button>"
+      },
+      {
+        "question": "Which method is the entry point of a Java program?",
+        "html": "<button class='btn btn-outline-primary m-1 answer-btn'>start()</button><button class='btn btn-outline-primary m-1 answer-btn' data-correct='true'>main()</button><button class='btn btn-outline-primary m-1 answer-btn'>run()</button>"
+      },
+      {
+        "question": "What is the correct way to declare an integer in Java?",
+        "html": "<button class='btn btn-outline-primary m-1 answer-btn'>int = 5</button><button class='btn btn-outline-primary m-1 answer-btn'>number = int</button><button class='btn btn-outline-primary m-1 answer-btn' data-correct='true'>int number = 5;</button>"
+      },
+      {
+        "question": "Which symbol is used to end statements in Java?",
+        "html": "<button class='btn btn-outline-primary m-1 answer-btn'>:</button><button class='btn btn-outline-primary m-1 answer-btn'>.</button><button class='btn btn-outline-primary m-1 answer-btn' data-correct='true'>;</button>"
+      },
+      {
+        "question": "Which access modifier allows the most visibility in Java?",
+        "html": "<button class='btn btn-outline-primary m-1 answer-btn'>private</button><button class='btn btn-outline-primary m-1 answer-btn'>protected</button><button class='btn btn-outline-primary m-1 answer-btn' data-correct='true'>public</button>"
+      }
+    ],
+    "python": [
+      {
+        "question": "What is the correct file extension for Python files?",
+        "html": "<button class='btn btn-outline-primary m-1 answer-btn'>.pt</button><button class='btn btn-outline-primary m-1 answer-btn'>.pyt</button><button class='btn btn-outline-primary m-1 answer-btn' data-correct='true'>.py</button>"
+      },
+      {
+        "question": "Which of the following is used to define a function in Python?",
+        "html": "<button class='btn btn-outline-primary m-1 answer-btn'>func</button><button class='btn btn-outline-primary m-1 answer-btn' data-correct='true'>def</button><button class='btn btn-outline-primary m-1 answer-btn'>function</button>"
+      },
+      {
+        "question": "How do you write a comment in Python?",
+        "html": "<button class='btn btn-outline-primary m-1 answer-btn'>/* This is a comment */</button><button class='btn btn-outline-primary m-1 answer-btn' data-correct='true'># This is a comment</button><button class='btn btn-outline-primary m-1 answer-btn'>// This is a comment</button>"
+      },
+      {
+        "question": "Which of the following is a valid list declaration in Python?",
+        "html": "<button class='btn btn-outline-primary m-1 answer-btn'>{1, 2, 3}</button><button class='btn btn-outline-primary m-1 answer-btn' data-correct='true'>[1, 2, 3]</button><button class='btn btn-outline-primary m-1 answer-btn'>(1, 2, 3)</button>"
+      },
+      {
+        "question": "What is the output of: print(type(42))",
+        "html": "<button class='btn btn-outline-primary m-1 answer-btn'>float</button><button class='btn btn-outline-primary m-1 answer-btn'>str</button><button class='btn btn-outline-primary m-1 answer-btn' data-correct='true'>&lt;class 'int'&gt;</button>"
+      }
+    ]
+  }
+}
